@@ -97,4 +97,4 @@ fig.update_traces(
     hovertemplate='<span style="font-size: 16px;"><b>%{label}</b><br><b>Count: %{value}</b><br><b>Percentage: %{percentEntry:.1%}</b></span>'
 )
 
-fig.write_html("sunburst_age_measure.html", auto_open=True)
+fig.write_html("/Users/wuyueyi/Desktop/some_filllle/2025科研/数据集/科研绘图/其他/脱敏/sunburst_age_class_measure.html", auto_open=True)
